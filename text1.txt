@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D88C-EDC5
+
+ Directory of C:\Users\Umesh N\Desktop\Project
+
+10-11-2022  10:46 AM    <DIR>          .
+10-11-2022  10:46 AM    <DIR>          ..
+10-11-2022  10:46 AM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  311,116,324,864 bytes free
